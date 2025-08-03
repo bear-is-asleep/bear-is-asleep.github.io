@@ -14,7 +14,7 @@ Brief introduction about your research interests and background.
 
 ---
 
-## Research
+## [Research](research.md)
 
 ### Current Research Areas
 - **Neutrino-Nucleus Model Studies**
