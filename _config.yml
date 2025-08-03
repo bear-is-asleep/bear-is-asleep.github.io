@@ -1,0 +1,21 @@
+title: Bear Carlson
+description: Neutrino Physics PhD Student at University of Florida
+url: "https://bear-is-asleep.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  presentations:
+    output: true
+    permalink: /presentations/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/ 
