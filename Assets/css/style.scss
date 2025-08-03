@@ -244,6 +244,25 @@ h2 {
   color: #5a6fd8;
 }
 
+/* Presentation Photo */
+.presentation-photo {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.presentation-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.presentation-image:hover {
+  transform: scale(1.02);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
   .hero {
@@ -268,6 +287,10 @@ h2 {
   
   h2 {
     font-size: 2rem;
+  }
+  
+  .presentation-image {
+    max-width: 90%;
   }
 }
 

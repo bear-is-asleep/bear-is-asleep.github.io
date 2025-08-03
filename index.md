@@ -53,6 +53,7 @@ I'm a PhD student in neutrino physics at the University of Florida, focusing on 
 ### Presentations
 <div class="section-content">
 - [Conference presentations and talks]
+- <a href="presentations.md">View all presentations</a>
 </div>
 
 ---
